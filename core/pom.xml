@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright 2021 Amani Christian Cyrille Alves
+  ~ Licensed under the Server Side Public License (SSPL), VERSION 1, OCTOBER 16, 2018;
+  -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <parent>
+    <artifactId>anansipay</artifactId>
+    <groupId>com.akanza</groupId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.akanza.anansipay</groupId>
+  <artifactId>core</artifactId>
+
+  <properties>
+    <javax-money.version>1.1</javax-money.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>javax.money</groupId>
+      <artifactId>money-api</artifactId>
+      <version>${javax-money.version}</version>
+    </dependency>
+  </dependencies>
+
+</project>
