@@ -1,9 +1,9 @@
 # Contributing to AnansiPay
 
-AnansiPay est un projet open source et nous sommes très heureux d'accepter les contributions de la
-communauté! Il existe de nombreuses façons de contribuer, que ce soit en écrivant des tutoriels ou
-des articles de blog, en améliorant la documentation, en soumettant des rapports de bogues et des
-demandes de fonctionnalités, ou en écrivant du code pouvant être incorporé dans AnansiPay lui-même.
+AnansiPay is an open source project and we are very happy to accept contributions from the
+community! There are many ways to contribute, from writing tutorials or blog posts, improving
+documentation, submitting bug reports and feature requests, or by writing code that can be
+incorporated into AnansiPay itself.
 
 # Feature requests
 
