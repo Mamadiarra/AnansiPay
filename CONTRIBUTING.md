@@ -27,3 +27,7 @@ warnings/issues:
 ```
 mvn clean verify
 ```
+
+You can follow the
+[Github](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/overview)
+documentation ,it will provide you with useful tips to enable you to contribute to AnansiPay.
