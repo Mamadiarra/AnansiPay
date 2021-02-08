@@ -1,5 +1,5 @@
 /*
- * Copyright 2021 Amani Christian Cyrille Alves
+ * Copyright 2021 Akanza
  * Licensed under the Server Side Public License (SSPL), VERSION 1, OCTOBER 16, 2018;
  */
 
