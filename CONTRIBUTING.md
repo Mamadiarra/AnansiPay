@@ -37,4 +37,3 @@ mvn clean verify
 For commit naming conventions, please refer to the
 following [specifications](https://www.conventionalcommits.org/en/v1.0.0/#specification
 ).
-
