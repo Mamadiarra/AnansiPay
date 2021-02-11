@@ -10,6 +10,8 @@ organisation into their applications without difficulty.
 
 ## Unified organization
 
+* TODO
+
 ## Organisation being unified
 
 * [CinetPay](https://cinetpay.com/)
